@@ -76,7 +76,7 @@ LSTM(64) → LSTM(128) → LSTM(64) → Dense(64) → Dense(32) → Dense(5, sof
 ---
 
 ## 📚 What I Learned
-As a Computer Science undergrad, this project taught me:
+As an Electronics undergrad, this project taught me:
 - How to use MediaPipe for pose/hand/face detection
 - Real-time computer vision with OpenCV
 - Structuring sequential data for LSTM training
